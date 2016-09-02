@@ -1,0 +1,60 @@
+2016/09/01 11:53:03 [models.go:99] miss
+2016/09/01 11:53:03 [I] [models.go:132] this yellow cat is 3 years old
+2016/09/01 11:54:44 [models.go:99] miss
+2016/09/01 11:54:44 [I] [models.go:132] this yellow cat is 3 years old
+2016/09/01 11:55:46 [models.go:99] miss
+2016/09/01 11:55:46 [I] [models.go:132] this yellow cat is 3 years old
+2016/09/01 11:58:02 [models.go:100] miss
+2016/09/01 11:58:02 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 11:58:04 [models.go:100] miss
+2016/09/01 11:58:04 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 11:58:10 [models.go:100] miss
+2016/09/01 11:58:10 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 11:58:28 [models.go:100] miss
+2016/09/01 11:58:28 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 11:58:28 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 14:27:09 [models.go:100] miss
+2016/09/01 14:27:09 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 14:27:09 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 14:28:04 [models.go:100] miss
+2016/09/01 14:28:04 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 14:28:05 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 14:37:24 [models.go:100] miss
+2016/09/01 14:37:24 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 14:37:24 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 14:37:33 [models.go:100] miss
+2016/09/01 14:37:33 [I] [models.go:150] this yellow cat is 3 years old
+2016/09/01 14:37:33 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 15:05:41 [models.go:104] miss
+2016/09/01 15:05:41 [I] [models.go:156] this yellow cat is 3 years old
+2016/09/01 15:05:41 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 15:08:45 [models.go:104] miss
+2016/09/01 15:08:45 [I] [models.go:171] this yellow cat is 3 years old
+2016/09/01 15:08:45 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 15:45:51 [models.go:107] miss
+2016/09/01 15:45:51 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/01 15:45:51 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 16:27:53 [models.go:107] miss
+2016/09/01 16:27:53 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/01 16:27:53 [user.go:27] <========================================================>
+2016/09/01 16:27:53 [user.go:28] <=============== User Controller ========================>
+2016/09/01 16:27:53 [user.go:29] <========================================================>
+2016/09/01 16:27:53 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 16:27:55 [models.go:107] miss
+2016/09/01 16:27:55 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/01 16:27:55 [user.go:27] <========================================================>
+2016/09/01 16:27:55 [user.go:28] <=============== User Controller ========================>
+2016/09/01 16:27:55 [user.go:29] <========================================================>
+2016/09/01 16:27:55 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 16:31:33 [models.go:107] miss
+2016/09/01 16:31:33 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/01 16:31:33 [user.go:27] <========================================================>
+2016/09/01 16:31:33 [user.go:28] <=============== User Controller ========================>
+2016/09/01 16:31:33 [user.go:29] <========================================================>
+2016/09/01 16:31:33 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/01 21:42:51 [models.go:107] miss
+2016/09/01 21:42:51 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/01 21:42:51 [user.go:27] <========================================================>
+2016/09/01 21:42:51 [user.go:28] <=============== User Controller ========================>
+2016/09/01 21:42:51 [user.go:29] <========================================================>
+2016/09/01 21:42:51 [I] [asm_amd64.s:2086] http server Running on http://:8060

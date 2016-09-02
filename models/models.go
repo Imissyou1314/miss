@@ -1,4 +1,4 @@
-package modles
+package models
 
 import(
     "fmt"
@@ -85,7 +85,15 @@ type SaleLog struct {
      AddressDesc    string
  }
 
+type Instace interface {
+
+}
+
+
+var logger = logs.GetLogger()
+
 func init()  {
+
     //添加日志管理
     logs.SetLogger(logs.AdapterFile,
         `{"filename":"project.log",
@@ -94,9 +102,8 @@ func init()  {
           "maxsize":0,
           "daily":true,
           "maxdays":10}`)
-
     //get logger
-    logger := logs.GetLogger()
+
     logger.Println("miss")
     logs.Info("this %s cat is %v years old", "yellow", 3)
     // set miss database
@@ -126,9 +133,33 @@ func main() {
     fmt.Print("Id : %d, Error: %v\n", id, err)
 }
 
-func insert(user User) {
+// NOTE: 获取Orm对象
+func  getOrm() orm.Ormer {
+    return orm.NewOrm()
+}
+
+// NOTE: 读取对象
+func Query(instance interface{}) interface{} {
+    logger.Println("<=== read %s", instance)
+    o := getOrm()
+    err := o.Read(&instance)
+    if checkOrmErr(err) {
+        logger.Println("%s ===>", instance)
+        return instance
+    }else {
+        logger.Println("获取数据为空 ===>")
+        return nil
+    }
+}
+
+/**
+ *   插入操作
+ */
+func Insert(instace interface{}) {
     o := orm.NewOrm()
     err := o.Begin()
+
+    o.Insert(instace)
 
     if err != nil {
         err = o.Rollback()
@@ -137,6 +168,32 @@ func insert(user User) {
     }
     checkError(err)
     fmt.Print("miss")
+}
+
+/**
+ *  删除数据
+ * instace: 操作对象
+ */
+func Delete(instace interface{}) {
+
+}
+
+func checkOrmErr(err interface{}) bool {
+    if err == orm.ErrNoRows {
+        fmt.Println("====>查询不到")
+        logger.Println("=== 查询不到 ===")
+        return false
+    } else if err == orm.ErrMissPK {
+        fmt.Println("=====> 找不到主键")
+        logger.Println("=== 找不到主键 ===")
+        return false
+    } else if err != nil {
+        fmt.Println("=====> 操作数据库出错")
+        logger.Println("=== 操作数据库异常 ===")
+        return false
+    }else {
+        return true
+    }
 }
 
 // NOTE: 检查是否有错误爆出

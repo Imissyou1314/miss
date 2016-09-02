@@ -7,6 +7,7 @@ import (
 	"runtime"
 	"path/filepath"
 	_ "miss/routers"
+	"miss/models"
 
 	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"
@@ -37,3 +38,9 @@ func TestMain(t *testing.T) {
 	})
 }
 
+// NOTE: models 的单元测试
+func TestModels(t *testing.T) {
+	var user models.User
+	user.Id = 1
+	models.Query(user)
+}
