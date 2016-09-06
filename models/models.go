@@ -5,6 +5,7 @@ import(
     "github.com/astaxie/beego/orm"
     "github.com/astaxie/beego/logs"
     _ "github.com/go-sql-driver/mysql"
+    "reflect"
 )
 
 /**
@@ -113,6 +114,10 @@ func init()  {
      // set Debug
     //  orm.Debug  = true
 
+    // //配置MYSQL数据库的默认链接
+	// orm.RegisterDataBase("default", "mysql",
+	// 	 "root:root@tcp(127.0.0.1:3366)/miss?charset=utf8")
+
      //需要再init中注册定义的model
     orm.RegisterModel(new(User), new(AddressMsg), new(SaleLog),new(AddressLog))
 
@@ -135,7 +140,12 @@ func main() {
 
 // NOTE: 获取Orm对象
 func  getOrm() orm.Ormer {
-    return orm.NewOrm()
+    //配置MYSQL数据库的默认链接
+	// orm.RegisterDataBase("default", "mysql",
+	// 	 "root:root@tcp(127.0.0.1:3366)/miss?charset=utf8")
+    o := orm.NewOrm()
+    o.Using("default")
+    return o
 }
 
 // NOTE: 读取对象
@@ -152,30 +162,42 @@ func Query(instance interface{}) interface{} {
     }
 }
 
+func getFullName(typ reflect.Type) string {
+    return typ.PkgPath() + "." + typ.Name()
+}
+func getMiId(md interface{}) {
+    val := reflect.ValueOf(md)
+
+    if val.Kind() != reflect.Ptr {
+        fmt.Println("是指针类型")
+    } else {
+        fmt.Println(" 不是指针类型，其类型为：",val.Kind())
+    }
+    ind := reflect.Indirect(val)
+    typ := ind.Type()
+    name := getFullName(typ)
+    fmt.Println("对象名称为:", name)
+    fmt.Println("------------------------------- ", md , "--------------------")
+}
+
 /**
  *   插入操作
  */
-func Insert(instace interface{}) {
-    o := orm.NewOrm()
-    err := o.Begin()
-
-    o.Insert(instace)
-
-    if err != nil {
-        err = o.Rollback()
-    } else {
-        err = o.Commit()
-    }
-    checkError(err)
-    fmt.Print("miss")
+func Insert(instance interface{}) {
+    o := getOrm()
+    getMiId(instance)
+    getMiId(&instance)
+    fmt.Println("get the Instance %s", instance)
+    o.Insert(instance)
 }
 
 /**
  *  删除数据
  * instace: 操作对象
  */
-func Delete(instace interface{}) {
-
+func Delete(instance interface{}) {
+    o := getOrm()
+    o.Delete(instance)
 }
 
 func checkOrmErr(err interface{}) bool {

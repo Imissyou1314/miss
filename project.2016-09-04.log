@@ -1,0 +1,387 @@
+2016/09/02 11:10:59 [models.go:107] miss
+2016/09/02 11:10:59 [I] [models.go:211] this yellow cat is 3 years old
+2016/09/02 11:10:59 [user.go:27] <========================================================>
+2016/09/02 11:10:59 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:10:59 [user.go:29] <========================================================>
+2016/09/02 11:10:59 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:12:20 [models.go:107] miss
+2016/09/02 11:12:20 [I] [models.go:211] this yellow cat is 3 years old
+2016/09/02 11:12:20 [user.go:27] <========================================================>
+2016/09/02 11:12:20 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:12:20 [user.go:29] <========================================================>
+2016/09/02 11:12:21 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:15:36 [models.go:107] miss
+2016/09/02 11:15:36 [I] [models.go:211] this yellow cat is 3 years old
+2016/09/02 11:15:36 [user.go:27] <========================================================>
+2016/09/02 11:15:36 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:15:36 [user.go:29] <========================================================>
+2016/09/02 11:15:36 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:166
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:44
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:17:41 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:166
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:44
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:19:08 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:19:17 [models.go:107] miss
+2016/09/02 11:19:17 [I] [models.go:211] this yellow cat is 3 years old
+2016/09/02 11:19:17 [user.go:27] <========================================================>
+2016/09/02 11:19:17 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:19:17 [user.go:29] <========================================================>
+2016/09/02 11:19:17 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:20:08 [models.go:107] miss
+2016/09/02 11:20:08 [I] [models.go:201] this yellow cat is 3 years old
+2016/09/02 11:20:08 [user.go:27] <========================================================>
+2016/09/02 11:20:08 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:20:08 [user.go:29] <========================================================>
+2016/09/02 11:20:09 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:20:58 [models.go:107] miss
+2016/09/02 11:20:58 [I] [models.go:202] this yellow cat is 3 years old
+2016/09/02 11:20:58 [user.go:27] <========================================================>
+2016/09/02 11:20:58 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:20:58 [user.go:29] <========================================================>
+2016/09/02 11:20:59 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:165
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:44
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:21:12 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:26:06 [models.go:107] miss
+2016/09/02 11:26:06 [I] [models.go:202] this yellow cat is 3 years old
+2016/09/02 11:26:06 [user.go:27] <========================================================>
+2016/09/02 11:26:06 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:26:06 [user.go:29] <========================================================>
+2016/09/02 11:26:06 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:165
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:26:24 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:165
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:34:21 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:38:55 [models.go:107] miss
+2016/09/02 11:38:55 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:38:55 [user.go:27] <========================================================>
+2016/09/02 11:38:55 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:38:55 [user.go:29] <========================================================>
+2016/09/02 11:38:55 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:168
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:39:01 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:41:37 [models.go:107] miss
+2016/09/02 11:41:37 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:41:37 [user.go:27] <========================================================>
+2016/09/02 11:41:37 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:41:37 [user.go:29] <========================================================>
+2016/09/02 11:41:37 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:41:39 [models.go:107] miss
+2016/09/02 11:41:39 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:41:39 [user.go:27] <========================================================>
+2016/09/02 11:41:39 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:41:39 [user.go:29] <========================================================>
+2016/09/02 11:41:39 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:41:51 [models.go:107] miss
+2016/09/02 11:41:51 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:41:51 [user.go:27] <========================================================>
+2016/09/02 11:41:51 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:41:51 [user.go:29] <========================================================>
+2016/09/02 11:41:51 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:41:58 [models.go:107] miss
+2016/09/02 11:41:58 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:41:58 [user.go:27] <========================================================>
+2016/09/02 11:41:58 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:41:58 [user.go:29] <========================================================>
+2016/09/02 11:41:59 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:168
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:42:24 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:168
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:43:59 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:44:11 [models.go:107] miss
+2016/09/02 11:44:11 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:44:11 [user.go:27] <========================================================>
+2016/09/02 11:44:11 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:44:11 [user.go:29] <========================================================>
+2016/09/02 11:44:11 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:168
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:44:18 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:44:56 [models.go:107] miss
+2016/09/02 11:44:56 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:44:56 [user.go:27] <========================================================>
+2016/09/02 11:44:56 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:44:56 [user.go:29] <========================================================>
+2016/09/02 11:44:56 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:168
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:45:01 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:48:24 [models.go:107] miss
+2016/09/02 11:48:24 [I] [models.go:202] this yellow cat is 3 years old
+2016/09/02 11:48:24 [user.go:27] <========================================================>
+2016/09/02 11:48:24 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:48:24 [user.go:29] <========================================================>
+2016/09/02 11:48:24 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:165
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:48:32 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:49:51 [models.go:107] miss
+2016/09/02 11:49:51 [I] [models.go:205] this yellow cat is 3 years old
+2016/09/02 11:49:51 [user.go:27] <========================================================>
+2016/09/02 11:49:51 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:49:51 [user.go:29] <========================================================>
+2016/09/02 11:49:51 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:168
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:49:56 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:51:48 [models.go:107] miss
+2016/09/02 11:51:48 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/02 11:51:48 [user.go:27] <========================================================>
+2016/09/02 11:51:48 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:51:48 [user.go:29] <========================================================>
+2016/09/02 11:51:48 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:170
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:51:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:58:57 [models.go:107] miss
+2016/09/02 11:58:57 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/02 11:58:57 [user.go:27] <========================================================>
+2016/09/02 11:58:57 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:58:57 [user.go:29] <========================================================>
+2016/09/02 11:58:57 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:170
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:59:00 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 11:59:18 [models.go:107] miss
+2016/09/02 11:59:18 [I] [models.go:207] this yellow cat is 3 years old
+2016/09/02 11:59:18 [user.go:27] <========================================================>
+2016/09/02 11:59:18 [user.go:28] <=============== User Controller ========================>
+2016/09/02 11:59:18 [user.go:29] <========================================================>
+2016/09/02 11:59:18 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:170
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 11:59:20 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 15:02:59 [models.go:108] miss
+2016/09/02 15:02:59 [I] [models.go:229] this yellow cat is 3 years old
+2016/09/02 15:02:59 [user.go:27] <========================================================>
+2016/09/02 15:02:59 [user.go:28] <=============== User Controller ========================>
+2016/09/02 15:02:59 [user.go:29] <========================================================>
+2016/09/02 15:02:59 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:192
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 15:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/02 15:07:00 [models.go:108] miss
+2016/09/02 15:07:00 [I] [models.go:229] this yellow cat is 3 years old
+2016/09/02 15:07:00 [user.go:27] <========================================================>
+2016/09/02 15:07:00 [user.go:28] <=============== User Controller ========================>
+2016/09/02 15:07:00 [user.go:29] <========================================================>
+2016/09/02 15:07:00 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> cannot use non-ptr model struct `miss/models.User`
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:104
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:155
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:192
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/user.go:46
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:770
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/02 15:07:03 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/03 14:54:48 [models.go:108] miss
+2016/09/03 14:54:48 [I] [models.go:230] this yellow cat is 3 years old
+2016/09/03 14:54:48 [user.go:27] <========================================================>
+2016/09/03 14:54:48 [user.go:28] <=============== User Controller ========================>
+2016/09/03 14:54:48 [user.go:29] <========================================================>
+2016/09/03 14:54:49 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/03 14:55:04 [models.go:108] miss
+2016/09/03 14:55:04 [I] [models.go:230] this yellow cat is 3 years old
+2016/09/03 14:55:04 [user.go:27] <========================================================>
+2016/09/03 14:55:04 [user.go:28] <=============== User Controller ========================>
+2016/09/03 14:55:04 [user.go:29] <========================================================>
+2016/09/03 14:55:05 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] the request url is  /addNewUser
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:logincontroller/post.tpl
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/template.go:64
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:249
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:200
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:184
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:792
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/03 14:55:30 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/03 18:38:07 [models.go:108] miss
+2016/09/03 18:38:07 [I] [models.go:230] this yellow cat is 3 years old
+2016/09/03 18:38:07 [user.go:27] <========================================================>
+2016/09/03 18:38:07 [user.go:28] <=============== User Controller ========================>
+2016/09/03 18:38:07 [user.go:29] <========================================================>
+2016/09/03 18:38:08 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/03 18:38:43 [models.go:108] miss
+2016/09/03 18:38:43 [I] [models.go:230] this yellow cat is 3 years old
+2016/09/03 18:38:43 [user.go:27] <========================================================>
+2016/09/03 18:38:43 [user.go:28] <=============== User Controller ========================>
+2016/09/03 18:38:43 [user.go:29] <========================================================>
+2016/09/03 18:38:43 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/04 10:03:38 [models.go:108] miss
+2016/09/04 10:03:38 [I] [models.go:229] this yellow cat is 3 years old
+2016/09/04 10:03:38 [user.go:27] <========================================================>
+2016/09/04 10:03:38 [user.go:28] <=============== User Controller ========================>
+2016/09/04 10:03:38 [user.go:29] <========================================================>
+2016/09/04 10:03:38 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/04 10:08:06 [models.go:108] miss
+2016/09/04 10:08:06 [I] [models.go:229] this yellow cat is 3 years old
+2016/09/04 10:08:06 [user.go:27] <========================================================>
+2016/09/04 10:08:06 [user.go:28] <=============== User Controller ========================>
+2016/09/04 10:08:06 [user.go:29] <========================================================>
+2016/09/04 10:08:06 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/04 11:15:37 [models.go:108] miss
+2016/09/04 11:15:37 [I] [models.go:229] this yellow cat is 3 years old
+2016/09/04 11:15:37 [login.go:24] <========================================================>
+2016/09/04 11:15:37 [login.go:25] <=============== User Controller ========================>
+2016/09/04 11:15:37 [login.go:26] <========================================================>
+2016/09/04 11:15:37 [user.go:27] <========================================================>
+2016/09/04 11:15:37 [user.go:28] <=============== User Controller ========================>
+2016/09/04 11:15:37 [user.go:29] <========================================================>
+2016/09/04 11:15:37 [I] [asm_amd64.s:2086] http server Running on http://:8060
