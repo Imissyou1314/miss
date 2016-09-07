@@ -8,6 +8,8 @@ import (
 	"path/filepath"
 	_ "miss/routers"
 	"miss/models"
+	"miss/utils"
+	"fmt"
 
 	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"
@@ -43,4 +45,11 @@ func TestModels(t *testing.T) {
 	var user models.User
 	user.Id = 1
 	models.Query(user)
+}
+
+// NOTE: Utils 工具的测试
+func TestUtils(t *testing.T) {
+	str := "miss"
+	md5Str := utils.GetMD5Hash(str)
+	fmt.Println("now md5 is: %s", md5Str)
 }

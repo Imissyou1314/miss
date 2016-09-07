@@ -200,6 +200,14 @@ func Delete(instance interface{}) {
     o.Delete(instance)
 }
 
+/**
+ *  更新操作
+ */
+func Update(instance interface{}) {
+    o := getOrm()
+    o.Update(instance)
+}
+
 func checkOrmErr(err interface{}) bool {
     if err == orm.ErrNoRows {
         fmt.Println("====>查询不到")
