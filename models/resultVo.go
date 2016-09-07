@@ -15,7 +15,7 @@ type ResultMsg struct {
     //获取错误的信息
     ResultError string
     //获取是否成功
-    isSuccess bool
+    IsSuccess bool
     //获取数据
     ResultData interface{}
 }
@@ -36,8 +36,8 @@ func GetResultMsg(isSuccess bool,
                 result.ResultInfo = ResultInfo
                 result.ResultError = ResultError
                 result.ResultData = ResultData
-                result.isSuccess = false
-                result.isSuccess = isSuccess
+                result.IsSuccess = false
+                result.IsSuccess = isSuccess
                 return
             }
 

@@ -358,3 +358,355 @@
 2016/09/07 15:03:25 [user.go:28] <=============== User Controller ========================>
 2016/09/07 15:03:25 [user.go:29] <========================================================>
 2016/09/07 15:03:25 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 21:09:24 [models.go:108] miss
+2016/09/07 21:09:24 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 21:09:24 [login.go:24] <========================================================>
+2016/09/07 21:09:24 [login.go:25] <=============== User Controller ========================>
+2016/09/07 21:09:24 [login.go:26] <========================================================>
+2016/09/07 21:09:24 [user.go:27] <========================================================>
+2016/09/07 21:09:24 [user.go:28] <=============== User Controller ========================>
+2016/09/07 21:09:24 [user.go:29] <========================================================>
+2016/09/07 21:09:25 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 22:22:18 [models.go:108] miss
+2016/09/07 22:22:18 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:22:18 [login.go:24] <========================================================>
+2016/09/07 22:22:18 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:22:18 [login.go:26] <========================================================>
+2016/09/07 22:22:18 [user.go:27] <========================================================>
+2016/09/07 22:22:18 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:22:18 [user.go:29] <========================================================>
+2016/09/07 22:26:03 [models.go:108] miss
+2016/09/07 22:26:03 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:26:03 [login.go:24] <========================================================>
+2016/09/07 22:26:03 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:26:03 [login.go:26] <========================================================>
+2016/09/07 22:26:03 [user.go:27] <========================================================>
+2016/09/07 22:26:03 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:26:03 [user.go:29] <========================================================>
+2016/09/07 22:28:23 [models.go:108] miss
+2016/09/07 22:28:23 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:28:23 [login.go:24] <========================================================>
+2016/09/07 22:28:23 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:28:23 [login.go:26] <========================================================>
+2016/09/07 22:28:23 [user.go:27] <========================================================>
+2016/09/07 22:28:23 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:28:23 [user.go:29] <========================================================>
+2016/09/07 22:30:18 [models.go:108] miss
+2016/09/07 22:30:18 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:30:18 [login.go:24] <========================================================>
+2016/09/07 22:30:18 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:30:18 [login.go:26] <========================================================>
+2016/09/07 22:30:18 [user.go:27] <========================================================>
+2016/09/07 22:30:18 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:30:18 [user.go:29] <========================================================>
+2016/09/07 22:31:27 [models.go:108] miss
+2016/09/07 22:31:27 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:31:27 [login.go:24] <========================================================>
+2016/09/07 22:31:27 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:31:27 [login.go:26] <========================================================>
+2016/09/07 22:31:27 [user.go:27] <========================================================>
+2016/09/07 22:31:27 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:31:27 [user.go:29] <========================================================>
+2016/09/07 22:31:36 [models.go:108] miss
+2016/09/07 22:31:36 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:31:36 [login.go:24] <========================================================>
+2016/09/07 22:31:36 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:31:36 [login.go:26] <========================================================>
+2016/09/07 22:31:36 [user.go:27] <========================================================>
+2016/09/07 22:31:36 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:31:36 [user.go:29] <========================================================>
+2016/09/07 22:33:17 [models.go:108] miss
+2016/09/07 22:33:17 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:33:17 [login.go:24] <========================================================>
+2016/09/07 22:33:17 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:33:17 [login.go:26] <========================================================>
+2016/09/07 22:33:17 [user.go:27] <========================================================>
+2016/09/07 22:33:17 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:33:17 [user.go:29] <========================================================>
+2016/09/07 22:33:18 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 22:34:35 [login.go:51] <=== Loggin ====>
+2016/09/07 22:34:43 [login.go:52] <=== %s map[phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723]]
+2016/09/07 22:34:43 [models.go:153] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:124
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:155
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 22:34:43 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 22:34:46 [models.go:108] miss
+2016/09/07 22:34:46 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:34:46 [login.go:24] <========================================================>
+2016/09/07 22:34:46 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:34:46 [login.go:26] <========================================================>
+2016/09/07 22:34:46 [user.go:27] <========================================================>
+2016/09/07 22:34:46 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:34:46 [user.go:29] <========================================================>
+2016/09/07 22:34:47 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 22:34:57 [login.go:51] <=== Loggin ====>
+2016/09/07 22:34:57 [login.go:52] <=== %s map[phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723]]
+2016/09/07 22:34:57 [models.go:153] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:124
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:155
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 22:34:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 22:40:19 [models.go:108] miss
+2016/09/07 22:40:19 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:40:19 [login.go:24] <========================================================>
+2016/09/07 22:40:19 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:40:19 [login.go:26] <========================================================>
+2016/09/07 22:40:19 [user.go:27] <========================================================>
+2016/09/07 22:40:19 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:40:19 [user.go:29] <========================================================>
+2016/09/07 22:40:19 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 22:40:24 [login.go:51] <=== Loggin ====>
+2016/09/07 22:40:57 [login.go:52] <=== %s map[phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723]]
+2016/09/07 22:40:57 [models.go:154] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] Handler crashed with error RegisterModel must be run before BootStrap
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/models_boot.go:309
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/models_boot.go:303
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:146
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:155
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 22:40:57 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 22:41:45 [models.go:108] miss
+2016/09/07 22:41:45 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:41:45 [login.go:24] <========================================================>
+2016/09/07 22:41:45 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:41:45 [login.go:26] <========================================================>
+2016/09/07 22:41:45 [user.go:27] <========================================================>
+2016/09/07 22:41:45 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:41:45 [user.go:29] <========================================================>
+2016/09/07 22:41:45 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 22:41:47 [login.go:51] <=== Loggin ====>
+2016/09/07 22:41:47 [login.go:52] <=== %s map[userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723] phoneMmid:[123456]]
+2016/09/07 22:41:47 [models.go:155] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] Handler crashed with error RegisterModel must be run before BootStrap
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/models_boot.go:309
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/models_boot.go:303
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:148
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:156
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 22:41:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 22:57:02 [models.go:108] miss
+2016/09/07 22:57:02 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:57:02 [login.go:24] <========================================================>
+2016/09/07 22:57:02 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:57:02 [login.go:26] <========================================================>
+2016/09/07 22:57:02 [user.go:27] <========================================================>
+2016/09/07 22:57:02 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:57:02 [user.go:29] <========================================================>
+2016/09/07 22:57:02 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 22:57:09 [login.go:51] <=== Loggin ====>
+2016/09/07 22:57:09 [login.go:52] <=== %s map[phoneNumber:[13763012723] phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456]]
+2016/09/07 22:57:09 [models.go:155] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] Handler crashed with error RegisterModel must be run before BootStrap
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/models_boot.go:309
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/models_boot.go:303
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:148
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:156
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 22:57:09 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 22:58:39 [models.go:108] miss
+2016/09/07 22:58:39 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 22:58:39 [login.go:24] <========================================================>
+2016/09/07 22:58:39 [login.go:25] <=============== User Controller ========================>
+2016/09/07 22:58:39 [login.go:26] <========================================================>
+2016/09/07 22:58:39 [user.go:27] <========================================================>
+2016/09/07 22:58:39 [user.go:28] <=============== User Controller ========================>
+2016/09/07 22:58:39 [user.go:29] <========================================================>
+2016/09/07 22:58:39 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 23:00:49 [models.go:108] miss
+2016/09/07 23:00:49 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:00:49 [login.go:24] <========================================================>
+2016/09/07 23:00:49 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:00:49 [login.go:26] <========================================================>
+2016/09/07 23:00:49 [user.go:27] <========================================================>
+2016/09/07 23:00:49 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:00:49 [user.go:29] <========================================================>
+2016/09/07 23:00:50 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 23:00:57 [login.go:51] <=== Loggin ====>
+2016/09/07 23:03:06 [login.go:52] <=== %s map[userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723] phoneMmid:[123456]]
+2016/09/07 23:03:06 [models.go:152] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:124
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:154
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 23:03:06 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 23:04:47 [models.go:108] miss
+2016/09/07 23:04:47 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:04:47 [login.go:24] <========================================================>
+2016/09/07 23:04:47 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:04:47 [login.go:26] <========================================================>
+2016/09/07 23:04:47 [user.go:27] <========================================================>
+2016/09/07 23:04:47 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:04:47 [user.go:29] <========================================================>
+2016/09/07 23:05:40 [models.go:108] miss
+2016/09/07 23:05:40 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:05:40 [login.go:24] <========================================================>
+2016/09/07 23:05:40 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:05:40 [login.go:26] <========================================================>
+2016/09/07 23:05:40 [user.go:27] <========================================================>
+2016/09/07 23:05:40 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:05:40 [user.go:29] <========================================================>
+2016/09/07 23:05:40 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 23:05:46 [login.go:51] <=== Loggin ====>
+2016/09/07 23:05:53 [login.go:52] <=== %s map[phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723]]
+2016/09/07 23:05:53 [models.go:152] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] Handler crashed with error <Ormer> table: `.` not found, maybe not RegisterModel
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:110
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/orm/orm.go:124
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/models/models.go:154
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/miss/controllers/login.go:57
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:434
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/reflect/value.go:302
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:785
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 23:05:53 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 23:07:34 [models.go:108] miss
+2016/09/07 23:07:34 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:07:34 [login.go:24] <========================================================>
+2016/09/07 23:07:34 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:07:34 [login.go:26] <========================================================>
+2016/09/07 23:07:34 [user.go:27] <========================================================>
+2016/09/07 23:07:34 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:07:34 [user.go:29] <========================================================>
+2016/09/07 23:07:47 [models.go:108] miss
+2016/09/07 23:07:47 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:07:47 [login.go:24] <========================================================>
+2016/09/07 23:07:47 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:07:47 [login.go:26] <========================================================>
+2016/09/07 23:07:47 [user.go:27] <========================================================>
+2016/09/07 23:07:47 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:07:47 [user.go:29] <========================================================>
+2016/09/07 23:08:21 [models.go:108] miss
+2016/09/07 23:08:21 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:08:21 [login.go:24] <========================================================>
+2016/09/07 23:08:21 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:08:21 [login.go:26] <========================================================>
+2016/09/07 23:08:21 [user.go:27] <========================================================>
+2016/09/07 23:08:21 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:08:21 [user.go:29] <========================================================>
+2016/09/07 23:08:42 [models.go:108] miss
+2016/09/07 23:08:42 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:08:42 [login.go:24] <========================================================>
+2016/09/07 23:08:42 [login.go:25] <=============== User Controller ========================>
+2016/09/07 23:08:42 [login.go:26] <========================================================>
+2016/09/07 23:08:42 [user.go:27] <========================================================>
+2016/09/07 23:08:42 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:08:42 [user.go:29] <========================================================>
+2016/09/07 23:08:42 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 23:08:47 [login.go:51] <=== Loggin ====>
+2016/09/07 23:08:47 [login.go:52] <=== %s map[phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723]]
+2016/09/07 23:08:47 [models.go:155] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 23:08:47 [models.go:216] === 查询不到 ===
+2016/09/07 23:08:47 [models.go:162] 获取数据为空 ===>
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:logincontroller/login.tpl
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/template.go:64
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:249
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:200
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:184
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:792
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 23:08:47 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086
+2016/09/07 23:29:52 [models.go:108] miss
+2016/09/07 23:29:52 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:29:52 [login.go:25] <========================================================>
+2016/09/07 23:29:52 [login.go:26] <=============== User Controller ========================>
+2016/09/07 23:29:52 [login.go:27] <========================================================>
+2016/09/07 23:29:52 [user.go:27] <========================================================>
+2016/09/07 23:29:52 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:29:52 [user.go:29] <========================================================>
+2016/09/07 23:29:52 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 23:30:30 [models.go:108] miss
+2016/09/07 23:30:30 [I] [resultVo.go:59] this yellow cat is 3 years old
+2016/09/07 23:30:30 [login.go:25] <========================================================>
+2016/09/07 23:30:30 [login.go:26] <=============== User Controller ========================>
+2016/09/07 23:30:30 [login.go:27] <========================================================>
+2016/09/07 23:30:30 [user.go:27] <========================================================>
+2016/09/07 23:30:30 [user.go:28] <=============== User Controller ========================>
+2016/09/07 23:30:30 [user.go:29] <========================================================>
+2016/09/07 23:30:30 [I] [asm_amd64.s:2086] http server Running on http://:8060
+2016/09/07 23:30:33 [login.go:52] <=== Loggin ====>
+2016/09/07 23:30:33 [login.go:53] <=== %s map[phoneMmid:[123456] userName:[陈立琼] password:[1245632] accout:[123456] phoneNumber:[13763012723]]
+2016/09/07 23:30:33 [models.go:155] <=== read %s &{0 陈立琼  123456  13763012723 false }
+2016/09/07 23:30:33 [models.go:216] === 查询不到 ===
+2016/09/07 23:30:33 [models.go:162] 获取数据为空 ===>
+2016/09/07 23:30:33 [josn_utils.go:22] to json data is:%s &{登陆失败 该用户还没注册 false <nil>}
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] the request url is  /login
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:logincontroller/login.tpl
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:479
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] E:/Go/src/runtime/panic.go:458
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/template.go:64
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:249
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:200
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/controller.go:184
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] D:/Golang/Go/src/github.com/astaxie/beego/router.go:792
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:2202
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] E:/Go/src/net/http/server.go:1579
+2016/09/07 23:30:33 [C] [asm_amd64.s:479] E:/Go/src/runtime/asm_amd64.s:2086

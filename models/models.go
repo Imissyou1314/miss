@@ -117,10 +117,12 @@ func init()  {
     // //配置MYSQL数据库的默认链接
 	// orm.RegisterDataBase("default", "mysql",
 	// 	 "root:root@tcp(127.0.0.1:3366)/miss?charset=utf8")
-
+    fmt.Println("<================ 注册ORM模型 ====================>")
      //需要再init中注册定义的model
-    orm.RegisterModel(new(User), new(AddressMsg), new(SaleLog),new(AddressLog))
-
+    orm.RegisterModel(new(User),
+                    new(AddressMsg),
+                    new(SaleLog),
+                    new(AddressLog))
     //create table
     // orm.RunSyncdb("default", false, true)
 }
@@ -152,7 +154,7 @@ func  getOrm() orm.Ormer {
 func Query(instance interface{}) interface{} {
     logger.Println("<=== read %s", instance)
     o := getOrm()
-    err := o.Read(&instance)
+    err := o.Read(instance)
     if checkOrmErr(err) {
         logger.Println("%s ===>", instance)
         return instance
